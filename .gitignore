@@ -1,0 +1,11 @@
+# Runtime and local research artifacts
+work/
+*.log
+*.pid
+*.tmp
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+outputs/ootd-admin/*.plist
